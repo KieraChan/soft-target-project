@@ -1,6 +1,6 @@
 # Soft-Target Language Modeling
 
-This repository contains research projects on soft-target training objectives for language models.
+This repository contains projects on soft-target training objectives for language models.
 
 ## Projects
 
