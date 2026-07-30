@@ -1,4 +1,5 @@
 # Dynamic Temperature Soft Targets on BabyLM
+babylm_soft_target_training
 
 This project is about semantic soft-target objectives for training small language models on the BabyLM corpus.
 
