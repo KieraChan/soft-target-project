@@ -7,7 +7,7 @@ This repository contains research projects on soft-target training objectives fo
 - [`01_iv_wikitext`](./01_iv_wikitext)  
   Soft-target training on WikiText-2.
 
-- [`02_babylm_dynamic_temperature_babylm`](./02_babylm_dynamic_temperature_babylm)  
+- [`02_dynamic_temperature_babylm`](./02_dynamic_temperature_babylm)  
   Dynamic temperature soft-target training on BabyLM corpus.
 
 ## Status
