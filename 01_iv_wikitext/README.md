@@ -1,4 +1,4 @@
-# Soft-target next-token prediction
+# 01_wikitext_soft_targets
 
 This repository contains the code for the PLIN0072 project on soft-target next-token prediction.
 
